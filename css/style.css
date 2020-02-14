@@ -255,7 +255,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: #41228e !important;
+  background: #cbffaa !important;
 }
 
 .bg-gray {
@@ -427,7 +427,6 @@ textarea.form-control {
 .navigation {
   padding: 40px 130px;
   transition: .3s ease;
-  background-color:#cbffaa;
 }
 
 .navigation.nav-bg {
