@@ -427,6 +427,7 @@ textarea.form-control {
 .navigation {
   padding: 40px 130px;
   transition: .3s ease;
+  background-color:#cbffaa;
 }
 
 .navigation.nav-bg {
