@@ -280,7 +280,7 @@ a:hover {
 }
 
 .text-green {
- color: #91CC56 !important;
+ color: #91CC56
 }
 .mb-10 {
   margin-bottom: 10px !important;
@@ -434,7 +434,7 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: #FFBF3FBF;
+  background-color: #FFff;
   padding: 15px 100px;
 }
 
