@@ -112,31 +112,31 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #41228e;
+  background: #91CC56;
   color: #fff;
 }
 
 .btn-primary:active {
-  background: #542cb7 !important;
+  background: #77B837 !important;
 }
 
 .btn-primary:hover {
-  background: #542cb7;
+  background: #77B837;
 }
 
 .btn-primary.focus, .btn-primary.active {
-  background: #542cb7 !important;
+  background: #77B837 !important;
   box-shadow: none !important;
 }
 
 .btn-transparent {
   background: transparent;
-  color: #41228e;
+  color: #91CC56;
   font-weight: bold;
 }
 
 .btn-transparent:active, .btn-transparent:hover {
-  color: #41228e;
+  color: #91CC56;
 }
 
 body {
