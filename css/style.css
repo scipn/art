@@ -462,7 +462,7 @@ textarea.form-control {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #fff;
+  color: transparent;
 }
 
 .hero-area {
