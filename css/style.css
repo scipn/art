@@ -436,7 +436,7 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: #FFff;
+  background-color: #FFBF3FBF;
   padding: 15px 100px;
 }
 
@@ -468,13 +468,13 @@ textarea.form-control {
 }
 
 .hero-area {
-  padding: 300px 0 200px;
+  padding: 200px 0 100px;
   position: relative;
 }
 
 @media (max-width: 767px) {
   .hero-area {
-    padding: 250px 0 150px;
+    padding: 200px 0 100px;
     overflow: hidden;
   }
 }
