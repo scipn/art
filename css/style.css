@@ -117,15 +117,15 @@ h6, .h6 {
 }
 
 .btn-primary:active {
-  background: #77B837 !important;
+  background: #CC8573 !important;
 }
 
 .btn-primary:hover {
-  background: #77B837;
+  background: #CC8573;
 }
 
 .btn-primary.focus, .btn-primary.active {
-  background: #77B837 !important;
+  background: #CC8573 !important;
   box-shadow: none !important;
 }
 
