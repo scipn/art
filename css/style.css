@@ -112,7 +112,7 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #91CC56;
+  background: #ffb185;
   color: #fff;
 }
 
@@ -131,12 +131,12 @@ h6, .h6 {
 
 .btn-transparent {
   background: transparent;
-  color: #91CC56;
+  color: #ffb185;
   font-weight: bold;
 }
 
 .btn-transparent:active, .btn-transparent:hover {
-  color: #91CC56;
+  color: #ffb185;
 }
 
 body {
