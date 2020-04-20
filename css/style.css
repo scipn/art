@@ -282,7 +282,7 @@ a:hover {
 }
 
 .text-red {
- color: #CC8573
+ color: #CC8573 !important;
 }
 .mb-10 {
   margin-bottom: 10px !important;
