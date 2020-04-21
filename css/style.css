@@ -985,143 +985,33 @@ blockquote {
      color: #76838f
  }
 
- .btn.btn-social-icon {
-     width: 50px;
-     height: 50px;
-     padding: 0
- }
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
 
- .template-demo>.btn {
-     margin-right: 0.5rem !important
- }
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
 
- .template-demo {
-     margin-top: 0.5rem !important
- }
+/* Set a specific color for each brand */
 
- .btn.btn-rounded {
-     border-radius: 50px
- }
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
 
- .btn-outline-facebook {
-     border: 1px solid #3b579d;
-     color: #3b579d
- }
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
 
- .btn-outline-facebook:hover {
-     background: #3b579d;
-     color: #ffffff
- }
-
- .btn-outline-youtube {
-     border: 1px solid #e52d27;
-     color: #e52d27
- }
-
- .btn-outline-twitter {
-     border: 1px solid #2caae1;
-     color: #2caae1
- }
-
- .btn-outline-dribbble {
-     border: 1px solid #ea4c89;
-     color: #ea4c89
- }
-
- .btn-outline-linkedin {
-     border: 1px solid #0177b5;
-     color: #0177b5
- }
-
- .btn-outline-instagram {
-     border: 1px solid #dc4a38;
-     color: #dc4a38
- }
-
- .btn-outline-twitter:hover {
-     background: #2caae1;
-     color: #ffffff
- }
-
- .btn-outline-linkedin:hover {
-     background: #0177b5;
-     color: #ffffff
- }
-
- .btn-outline-youtube:hover {
-     background: #e52d27;
-     color: #ffffff
- }
-
- .btn-outline-instagram:hover {
-     background: #e52d27;
-     color: #ffffff
- }
-
- .btn-facebook {
-     background: #3b579d;
-     color: #ffffff
- }
-
- .btn-youtube {
-     background: #e52d27;
-     color: #ffffff
- }
-
- .btn-twitter {
-     background: #2caae1;
-     color: #ffffff
- }
-
- .btn-dribbble {
-     background: #ea4c89;
-     color: #ffffff
- }
-
- .btn-linkedin {
-     background: #0177b5;
-     color: #ffffff
- }
-
- .btn-instagram {
-     background: #f2bbe0;
-     color: #ffffff
- }
-
- .btn-facebook:hover,
- .btn-facebook:focus {
-     background: #2d4278;
-     color: #ffffff
- }
-
- .btn-youtube:hover,
- .btn-youtube:focus {
-     background: #c21d17;
-     color: #ffffff
- }
-
- .btn-twitter:hover,
- .btn-twitter:focus {
-     background: #ffb185;
-     color: #ffffff
- }
-
- .btn-dribbble:hover,
- .btn-dribbble:focus {
-     background: #e51e6b;
-     color: #ffffff
- }
-
- .btn-linkedin:hover,
- .btn-linkedin:focus {
-     background: #015682;
-     color: #ffffff
- }
-
- .btn-instagram:hover,
- .btn-instagram:focus {
-     background: #bf3322;
-     color: #ffffff
- }
-
+ 
 /*# sourceMappingURL=maps/style.css.map */
